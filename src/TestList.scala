@@ -1,4 +1,4 @@
-object ListTest1 {
+object TestList {
   val site: List[String] = List("a", "b", "c")
   val nums: List[Int] = List(1, 2, 3, 4)
   val empty: List[Nothing] = List()
